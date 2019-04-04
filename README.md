@@ -1,1 +1,1 @@
-# This if for use git study
+# This i for use git study
